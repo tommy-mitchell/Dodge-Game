@@ -1,0 +1,33 @@
+21
+20
+S 260, 525, 2
+E 520, 125
+B 220, 425, 20, 20, 300, 425
+B 300, 285, 20, 20, 220, 285
+B 320, 145, 20, 40, 320, 245
+B 340, 285, 20, 20, 440, 285
+B 440, 365, 20, 20, 340, 365
+B 460, 485, 20, 40, 460, 385
+B 480, 365, 20, 20, 560, 365
+B 560, 225, 20, 20, 480, 225
+WWWWWWWWWWWWWWWWwWWW
+W            W     W
+W            W     W
+W            W     W
+W            W     W
+W            W     W
+W            W     W
+W            W     W
+W     W      W     W
+W     W      W     W
+W     W      W     W
+W     W      W     W
+W     W      W     W
+W     W            W
+W     W            W
+W     W            W
+W     W            W
+W     W            W
+W     W            W
+W     W            W
+WWWwWWWWWWWWWWWWWWWW
